@@ -1,0 +1,33 @@
+# папки
+/bin/
+.env/
+.venv/
+.my_venv_*/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.vscode/
+.idea/
+dist/
+build/
+logs/
+data/tmp/
+cache/
+
+# файлы
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+*.db
+.env*
+*.pem
+*.key
+
+# ОС
+.DS_Store
+Thumbs.db
+
